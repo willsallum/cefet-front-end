@@ -174,7 +174,7 @@
 ---
 ## Exemplo: `em` _vs_ `rem`
 
-[Veja no CodePen (https://via.placeholder.com/600x400)](https://codepen.io/pen?template=QWRrmbK&height=326&theme-id=dark&default-tab=css,result&embed-version=2)
+[![Meu Projeto](https://via.placeholder.com/600x400)](https://codepen.io/pen?template=QWRrmbK&height=326&theme-id=dark&default-tab=css,result&embed-version=2)
 
 <!-- <iframe height='265' scrolling='no' title='Exemplo em vs rem' src='//codepen.io/fegemo/embed/JrvRgL/?height=300&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/fegemo/pen/JrvRgL/'>Exemplo em vs rem</a> by Flavio (<a href='https://codepen.io/fegemo'>@fegemo</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe> -->
